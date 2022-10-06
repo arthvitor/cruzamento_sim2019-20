@@ -2,6 +2,8 @@
 
 Esse repositório são documentações de código de queries em **SQLite** para realização de uma Análise Exploratória de Dados (AED) do Sistema de Informação sobre Mortalidade (SIM), do Ministério da Saúde, nos anos de 2019 e 2020. Foram feitos, pelo menos 20 cruzamentos que cuminaram na realização de uma matéria mostrando dados sobre mortalidade geral, transtorno mentais e alcoolismo. 
 
+Confira aqui a matéria. <https://bit.ly/3CCcAiD>
+
 # Como começar?
 1. Baixe os arquivos na pasta data dentro desse respositório;
 2. Abra seu editor SQLite (para esse cruzamento, foi utilizado o DB Browser for SQLite);
